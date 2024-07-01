@@ -1,0 +1,3569 @@
+{
+    "Building": {
+        "Type": "BuildingDefinition",
+        "Author": "robert.osborne",
+        "LastGenerated": "091621 @ 20:23:00.920449",
+        "Version": 1.98,
+        "Tested_With_BuildingGenerator": 1.4851,
+        "BDF": "STK",
+        "Modules": {
+            "1": {
+                "E1": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_1": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.00507843017578125,
+                                        0.18267303466796875,
+                                        0.8378948211669922
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.00507843017578125,
+                                        0.4954464721679688,
+                                        0.8378948211669922
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.00507843017578125,
+                                        0.8008175659179688,
+                                        0.8378948211669922
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.00072265625,
+                                        -0.00029296875,
+                                        0.00028564453125
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.6850000023841858
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E10": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_10",
+                    "Grammar": "E10",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_15": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.0050790500640869145,
+                                        0.127470703125,
+                                        0.5000039291381836
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.24500000476837158,
+                                        0.24500000476837158,
+                                        0.24500000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077271461486816,
+                                        0.8753564453125,
+                                        0.4995606994628906
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.24500000476837158,
+                                        0.24500000476837158,
+                                        0.24500000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0025,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A10_N1_1.SM_BLDG_Prop_Sticker_Composite_A10_N1_1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E11": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_11",
+                    "Grammar": "E11",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_21": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005079200267791748,
+                                        0.5,
+                                        0.8156531524658204
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3611634075641632,
+                                        0.3611629903316498,
+                                        0.3611634075641632
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.00072579026222229,
+                                        -0.00029296875,
+                                        0.002672879993915558
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A15_N1_1.SM_BLDG_Prop_Sticker_Composite_A15_N1_1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E12": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_12",
+                    "Grammar": "E12",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_16": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078129768371582,
+                                        0.48115234375,
+                                        0.4759967803955078
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.4294990003108978,
+                                        0.33852607011795044,
+                                        0.40946298837661743
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.000722583532333374,
+                                        -0.00029296875,
+                                        0.6953783416748047
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.29749998450279236
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007224297523498536,
+                                        -0.00029296875,
+                                        -0.0008575800061225891
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.26249998807907104
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078206062316895,
+                                        0.17472900390625,
+                                        0.3909226989746094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2676979899406433,
+                                        0.2676979899406433,
+                                        0.2483416348695755
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.0050780558586120605,
+                                        0.16490478515625,
+                                        0.6018015670776368
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.16758519411087036,
+                                        0.16758519411087036,
+                                        0.16758519411087036
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077970027923584,
+                                        0.8335595703125,
+                                        0.4374901580810547
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.33364298939704895,
+                                        0.33364298939704895,
+                                        0.33364298939704895
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.0050769829750061035,
+                                        0.83540771484375,
+                                        0.6477648162841797
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2676979899406433,
+                                        0.2676979899406433,
+                                        0.08500000089406967
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E14": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_14",
+                    "Grammar": "E14",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_27": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077979564666748,
+                                        0.5033935546875,
+                                        0.25058004379272464
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.23986899852752686,
+                                        0.23986899852752686,
+                                        0.23986899852752686
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.000728919506072998,
+                                        -0.00029296875,
+                                        0.0014361800253391266
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A12_N1_1.SM_BLDG_Prop_Sticker_Composite_A12_N1_1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077979564666748,
+                                        0.87619873046875,
+                                        0.2503957176208496
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.23986899852752686,
+                                        0.23986899852752686,
+                                        0.23986899852752686
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005083930492401123,
+                                        0.12544189453125001,
+                                        0.2520183563232422
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.23986899852752686,
+                                        0.23986899852752686,
+                                        0.23986899852752686
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E2": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_2",
+                    "Grammar": "E2",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_2": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077815055847168,
+                                        0.18106842041015625,
+                                        0.600576171875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28406304121017456,
+                                        0.26362869143486023,
+                                        0.28406304121017456
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077815055847168,
+                                        0.5052175903320313,
+                                        0.600576171875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2661464810371399,
+                                        0.2457120716571808,
+                                        0.2661464810371399
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077815055847168,
+                                        0.8053487396240234,
+                                        0.600576171875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28559720516204834,
+                                        0.26516276597976685,
+                                        0.28559720516204834
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.00028564000502228736
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.45249998569488525
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "5": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.7682415008544922
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.2175000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E3": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_3",
+                    "Grammar": "E3",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_3": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.17995361328125,
+                                        0.16745754241943359
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.49272705078125,
+                                        0.16745754241943359
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.79809814453125,
+                                        0.16745754241943359
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.32826732635498046
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.6680720448493958
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E4": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_4",
+                    "Grammar": "E4",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_4": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077672004699707,
+                                        0.140294189453125,
+                                        0.16881746292114258
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.0025,
+                                        0.292242431640625,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.4000000059604645,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077517032623291,
+                                        0.1394586181640625,
+                                        0.49956363677978516
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077440738677979,
+                                        0.141937255859375,
+                                        0.8182421112060547
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077059268951416,
+                                        0.8477612304687501,
+                                        0.18502347946166992
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077059268951416,
+                                        0.8477612304687501,
+                                        0.5044205093383789
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005076829195022583,
+                                        0.8477612304687501,
+                                        0.8246586608886719
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28577500581741333,
+                                        0.28577500581741333,
+                                        0.28577500581741333
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E5": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_5",
+                    "Grammar": "E5",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_11": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078043937683106,
+                                        0.053088989257812504,
+                                        0.9542121124267579
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.07934547960758209,
+                                        0.07934547960758209,
+                                        0.07934547960758209
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.21762901306152344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.6417800188064575
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.3085260009765625,
+                                        0.08268901824951172
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.15000000596046448,
+                                        0.15000000596046448,
+                                        0.15000000596046448
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.005078773498535157,
+                                        0.6731304931640625,
+                                        0.0738266372680664
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.17075900733470917,
+                                        0.17075900733470917,
+                                        0.11536991596221924
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078885555267334,
+                                        0.9018963623046875,
+                                        0.08461417198181152
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.1572258025407791,
+                                        0.15688492357730865,
+                                        0.1572258025407791
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005081019401550293,
+                                        0.089923095703125,
+                                        0.08553840637207032
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.15679723024368286,
+                                        0.15679723024368286,
+                                        0.15679723024368286
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "Composite",
+                                    "var": "S",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.1706972312927246
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.0460439994931221
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "8": {
+                                    "Type": "Composite",
+                                    "var": "S",
+                                    "Offset": [
+                                        0.0007228100299835205,
+                                        -0.00029296875,
+                                        0.8597357177734375
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.0460439994931221
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "9": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007227301597595215,
+                                        0.098896484375,
+                                        0.9079287719726563
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.9005860090255737,
+                                        0.09058800339698792
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E6": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_6",
+                    "Grammar": "E6",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_12": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.6213946533203125,
+                                        0.5115236282348633
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2746819853782654,
+                                        0.2542479932308197,
+                                        0.2746819853782654
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "S",
+                                    "Offset": [
+                                        0.0007226598262786865,
+                                        -0.00029296875,
+                                        0.17134788513183594
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.045503001660108566
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "S",
+                                    "Offset": [
+                                        0.0007225096225738526,
+                                        -0.00029296875,
+                                        0.79964599609375
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.20539799332618713
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005075755119323731,
+                                        0.208092041015625,
+                                        0.08461417198181152
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.15156883001327515,
+                                        0.15156883001327515,
+                                        0.15156883001327515
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005076060295104981,
+                                        0.058984375,
+                                        0.08461417198181152
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.08280999958515167,
+                                        0.08280999958515167,
+                                        0.08280999958515167
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005076136589050293,
+                                        0.70609619140625,
+                                        0.08335494041442872
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.15000000596046448,
+                                        0.15000000596046448,
+                                        0.15000000596046448
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.00029425621032714845,
+                                        0.34813232421875,
+                                        0.06006782531738281
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.11251794546842575,
+                                        0.11251794546842575,
+                                        0.11251794546842575
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "8": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.00507675051689148,
+                                        0.9173046875,
+                                        0.08461417198181152
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.15833815932273865,
+                                        0.15833815932273865,
+                                        0.15833815932273865
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "9": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.0007431221008300782,
+                                        0.49605957031250003,
+                                        0.09
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.20138147473335266,
+                                        0.1809474527835846,
+                                        0.1574999988079071
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "10": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007227396965026855,
+                                        -0.00029296875,
+                                        0.21690053939819337
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.5827534794807434
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_B01_N1.SM_BLDG_Prop_Sticker_Composite_B01_N1'"
+                                },
+                                "11": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078120231628418,
+                                        0.3748358154296875,
+                                        0.5148819351196289
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2648468315601349,
+                                        0.24441282451152802,
+                                        0.2648468315601349
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E7": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_7",
+                    "Grammar": "E7",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_13": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005084462165832519,
+                                        0.5006945800781251,
+                                        0.4985383987426758
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.5163459777832031,
+                                        0.5163459777832031,
+                                        0.5163459777832031
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_B01_N1.SM_BLDG_Prop_Sticker_Composite_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E8": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_8",
+                    "Grammar": "E8",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_14": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.00493551254272461,
+                                        0.8713659667968751,
+                                        0.6258262634277344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.8575659394264221,
+                                        0.14752574265003204,
+                                        0.1875661164522171
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.004929964542388916,
+                                        0.499954833984375,
+                                        0.6309078216552735
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2041686773300171,
+                                        0.2041686773300171,
+                                        0.2041686773300171
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.004938431978225708,
+                                        0.748189697265625,
+                                        0.06203600406646729
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.09000000357627869,
+                                        0.09000000357627869,
+                                        0.09000000357627869
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.013792037963867188,
+                                        0.47576293945312503,
+                                        0.06354083061218262
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.08797437697649002,
+                                        0.08797437697649002,
+                                        0.08797437697649002
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.0049389290809631345,
+                                        0.91257568359375,
+                                        0.07030743598937989
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.12000655382871628,
+                                        0.12000655382871628,
+                                        0.12000655382871628
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.0049288272857666016,
+                                        0.1251171875,
+                                        0.6272397232055664
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3107781708240509,
+                                        0.2507857382297516,
+                                        0.21010304987430573
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0005705320835113526,
+                                        -0.00041015625,
+                                        0.1338577747344971
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.7855266332626343
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A13_N1_1.SM_BLDG_Prop_Sticker_Composite_A13_N1_1'"
+                                },
+                                "8": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.005076298713684082,
+                                        0.115352783203125,
+                                        0.0583869743347168
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.18108141422271729,
+                                        0.18108141422271729,
+                                        0.08009441941976547
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "9": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.005076452493667603,
+                                        0.11456787109375,
+                                        0.9498297119140625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.18108099699020386,
+                                        0.18108099699020386,
+                                        0.08009400218725204
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "10": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.005076682567596436,
+                                        0.8901416015625,
+                                        0.9498297119140625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.18108099699020386,
+                                        0.18108099699020386,
+                                        0.08009400218725204
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E9": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_9",
+                    "Grammar": "E9",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_17": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078150033950806,
+                                        0.717779541015625,
+                                        0.5036967086791992
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.20102986693382263,
+                                        0.20102986693382263,
+                                        0.22034122049808502
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077905654907226,
+                                        0.271636962890625,
+                                        0.6387489318847657
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.16442936658859253,
+                                        0.16442936658859253,
+                                        0.16442936658859253
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "H",
+                                    "Offset": [
+                                        0.005077788829803467,
+                                        0.808638916015625,
+                                        0.683799819946289
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.25080808997154236,
+                                        0.25080808997154236,
+                                        0.10992223024368286
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007227396965026855,
+                                        -0.005361328125,
+                                        0.0014722800254821779
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A11_N1_1.SM_BLDG_Prop_Sticker_Composite_A11_N1_1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005078060626983643,
+                                        0.901785888671875,
+                                        0.49942634582519535
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.1369469165802002,
+                                        0.1770569384098053,
+                                        0.22856172919273376
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "6": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005070433616638183,
+                                        0.271998291015625,
+                                        0.46652908325195314
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.1674414575099945,
+                                        0.1674414575099945,
+                                        0.1674414575099945
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "7": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005077910423278808,
+                                        0.085140380859375,
+                                        0.6387489318847657
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.16442899405956268,
+                                        0.16442899405956268,
+                                        0.16442899405956268
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "8": {
+                                    "Type": "helper",
+                                    "var": "G",
+                                    "Offset": [
+                                        0.005070430040359497,
+                                        0.08550170898437501,
+                                        0.46652908325195314
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.1674409955739975,
+                                        0.1674409955739975,
+                                        0.1674409955739975
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "E1": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L2_A1_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_5": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005073704719543457,
+                                        0.18643241882324219,
+                                        0.8268032836914063
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005073704719543457,
+                                        0.4992058563232422,
+                                        0.8268032836914063
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005073704719543457,
+                                        0.8045769500732423,
+                                        0.8268032836914063
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226600497961045,
+                                        -0.00029296875,
+                                        0.00028564453125
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.6674999594688416
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E2": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L2_A1_Entrance_2",
+                    "Grammar": "E2",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_6": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005078740119934082,
+                                        0.12304779052734376,
+                                        0.6284527587890625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.25,
+                                        0.25,
+                                        0.25
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005078129768371582,
+                                        0.49918899536132816,
+                                        0.6241476440429687
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.25,
+                                        0.25,
+                                        0.25
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005078129768371582,
+                                        0.8762837219238282,
+                                        0.6253933715820312
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.25,
+                                        0.25,
+                                        0.25
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0025,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A13_N1_1.SM_BLDG_Prop_Sticker_Composite_A13_N1_1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E3": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L2_A1_Entrance_3",
+                    "Grammar": "E3",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_7": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005083775520324707,
+                                        0.5,
+                                        0.5077513122558593
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.30000001192092896,
+                                        0.30000001192092896,
+                                        0.30000001192092896
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.0050836229324340825,
+                                        0.5,
+                                        0.8111804199218751
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.30000001192092896,
+                                        0.30000001192092896,
+                                        0.30000001192092896
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005083546638488769,
+                                        0.5,
+                                        0.20467636108398438
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.30000001192092896,
+                                        0.30000001192092896,
+                                        0.30000001192092896
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226600497961045,
+                                        -0.00029296875,
+                                        0.00028564453125
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.3499999940395355,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "5": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007226600497961045,
+                                        0.65,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.3499999940395355,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E4": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L2_A1_Entrance_4",
+                    "Grammar": "E4",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_8": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005078663825988769,
+                                        0.5000531005859375,
+                                        0.5016122436523438
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.32805612683296204,
+                                        0.32805612683296204,
+                                        0.32805612683296204
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0025,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A16_N1_1.SM_BLDG_Prop_Sticker_Composite_A16_N1_1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E5": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L2_A1_Entrance_5",
+                    "Grammar": "E5",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_9": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005077672004699707,
+                                        0.32821289062500003,
+                                        0.1569779968261719
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005077672004699707,
+                                        0.640986328125,
+                                        0.1569779968261719
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007223548740148544,
+                                        -0.00029296875,
+                                        0.31518798828125
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.6875
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E6": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Entrance_6",
+                    "Grammar": "E6",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_Frosted": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.00507835865020752,
+                                        0.4988348388671875,
+                                        0.5024740600585937
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.4558073878288269,
+                                        0.4558073878288269
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_B01_N1.SM_BLDG_Prop_Sticker_Composite_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E7": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Entrance_7",
+                    "Grammar": "E7",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_18": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005078091621398926,
+                                        0.499410400390625,
+                                        0.4983209228515625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.23825199902057648,
+                                        0.23825199902057648,
+                                        0.23825199902057648
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007227396965026855,
+                                        -0.00029296875,
+                                        -0.001813201904296875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.25,
+                                        1.0042049884796143
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_C01_N1.SM_BLDG_Prop_Sticker_Composite_C01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.75,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.25,
+                                        1.0042049884796143
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E8": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Entrance_8",
+                    "Grammar": "E8",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_28": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.005079200267791748,
+                                        0.5004736328125,
+                                        0.79072021484375
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.4219149947166443,
+                                        0.4219149947166443,
+                                        0.4219149947166443
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.00072579026222229,
+                                        -0.00029296875,
+                                        0.0026728820800781252
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.5807449817657471
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007271599769592285,
+                                        -0.00029296875,
+                                        0.5801522827148438
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.2887730002403259,
+                                        0.4180139899253845
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0007275402545928955,
+                                        0.710810546875,
+                                        0.5801522827148438
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.2887730002403259,
+                                        0.4180139899253845
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E9": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.05,
+                        0.05
+                    ],
+                    "Name": "L2_B_Entrance_9",
+                    "Grammar": "E9",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_29": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "B",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "3": {
+                "E1": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "Offset": [
+                        -9.1552734375e-07,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L3_D_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_FrostedE1": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "DL",
+                                    "Offset": [
+                                        0.0010892868041992188,
+                                        0.2893696975708008,
+                                        0.48063690185546876
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2854360044002533,
+                                        0.28775298595428467,
+                                        0.10876700282096863
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.44749999046325684
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.5499996948242187
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.45500001311302185
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E2": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L3_D_Entrance_2",
+                    "Grammar": "E2",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_Frosted_E2": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "DR",
+                                    "Offset": [
+                                        0.0010892900079488754,
+                                        0.6987687683105469,
+                                        0.48063690185546876
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.28543606400489807,
+                                        0.28775307536125183,
+                                        0.10876700282096863
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.44749999046325684
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.5499996948242187
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.45500001311302185
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E3": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "Offset": [
+                        -9.200000204145908e-07,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L3_D_Entrance_3",
+                    "Grammar": "E3",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_Frosted_E3": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "DL",
+                                    "Offset": [
+                                        0.005,
+                                        0.3,
+                                        0.4799996948242188
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.06063799932599068,
+                                        0.35331499576568604,
+                                        0.14831499755382538
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.44999998807907104
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.5199996948242187
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.47999998927116394
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E4": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "Offset": [
+                        -9.200000204145908e-07,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L3_D_Entrance_4",
+                    "Grammar": "E4",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_Frosted_E4": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "DR",
+                                    "Offset": [
+                                        0.005,
+                                        0.7000000000000001,
+                                        0.4799996948242188
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.060637928545475006,
+                                        0.3533150255680084,
+                                        0.14831484854221344
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.44999998807907104
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.5199996948242187
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.47999998927116394
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E5": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.009999999403953552,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L3_D_Entrance_5",
+                    "Grammar": "E5",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_Frosted_E5": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "helper",
+                                    "var": "PS",
+                                    "Offset": [
+                                        0.0010891377925872803,
+                                        0.48118408203125,
+                                        0.491044921875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.2854360044002533,
+                                        0.28775298595428467,
+                                        0.10876700282096863
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_A05_N1.SM_BLDG_Prop_WindowSticker_helper_A05_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.33000001311302185,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.66,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.33000001311302185,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        3.0517578125e-07,
+                                        0.4925433349609375,
+                                        0.20018890380859375
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                },
+                                "5": {
+                                    "Type": "helper",
+                                    "var": "B",
+                                    "Offset": [
+                                        3.0040740966796875e-07,
+                                        0.4925433349609375,
+                                        0.8236965942382812
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.3148230016231537,
+                                        0.3148230016231537,
+                                        0.3148230016231537
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E6": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L3_D_Entrance_6",
+                    "Grammar": "E6",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_E6": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        -0.14967036247253418,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "4": {
+                "E1": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_M1_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_20": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.9999999403953552,
+                                        0.9999999403953552,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_D02_N1.SM_BLDG_Prop_Sticker_Composite_D02_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "F",
+                                    "Offset": [
+                                        0.005,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.9999999403953552,
+                                        0.9999999403953552,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_D01_N1.SM_BLDG_Prop_Sticker_Composite_D01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E2": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_M1_Entrance_2",
+                    "Grammar": "E2",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_22": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "F",
+                                    "Offset": [
+                                        0.000999847650527954,
+                                        0.00138671875,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_C03_N1.SM_BLDG_Prop_Sticker_Composite_C03_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.000999847650527954,
+                                        0.00138671875,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_C04_N1.SM_BLDG_Prop_Sticker_Composite_C04_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E3": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_M1_Entrance_3",
+                    "Grammar": "E3",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_23": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.5
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "F",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.5
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        0.5
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E4": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_M1_Entrance_4",
+                    "Grammar": "E4",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_24": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.5,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "F",
+                                    "Offset": [
+                                        0.0,
+                                        0.5,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.5,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E5": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_P1_Entrance_5",
+                    "Grammar": "E5",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_25": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "P",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E6": {
+                    "Mod_Dim": [
+                        1.0,
+                        1.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.01,
+                        0.0,
+                        0.0
+                    ],
+                    "Name": "L4_M1_Entrance_6",
+                    "Grammar": "E6",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'",
+                    "Props": {
+                        "Group_26": {
+                            "Group_Type": "Composite",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Composite",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.0,
+                                        0.25,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.5,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_A01_N1.SM_BLDG_Prop_Sticker_Composite_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Composite",
+                                    "var": "F",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_Sticker_Composite_C06_N1.SM_BLDG_Prop_Sticker_Composite_C06_N1'"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Levels": {
+            "1": {
+                "LevelNum": 1,
+                "Height": 1.0,
+                "F0": [
+                    "C|W|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "2": {
+                "LevelNum": 2,
+                "Height": 1.0,
+                "F0": [
+                    "C|W|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "3": {
+                "LevelNum": 3,
+                "Height": 1.0,
+                "F0": [
+                    "C|W|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "4": {
+                "LevelNum": 4,
+                "Height": 1.0,
+                "F0": [
+                    "C|W|C"
+                ],
+                "Alignment_Level": 2
+            }
+        },
+        "minWallWidth": "14",
+        "minBldgHeight": "20",
+        "maxBldgHeight": "2000",
+        "Roof_Inset": 0.0,
+        "Roof_Offset": 0.0,
+        "SubRoof_Inset": 0.0,
+        "SubRoof_Offset": 0.0,
+        "LevelsGrammar": {
+            "0": [
+                1
+            ],
+            "1": [
+                2
+            ],
+            "2": [
+                2
+            ]
+        }
+    }
+}
