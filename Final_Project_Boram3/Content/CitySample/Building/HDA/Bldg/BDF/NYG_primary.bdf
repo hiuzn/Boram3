@@ -1,0 +1,3488 @@
+{
+    "Building": {
+        "Type": "BuildingDefinition",
+        "Author": "votch.levi",
+        "LastGenerated": "021422 @ 15:58:03.654210",
+        "Version": 1.98,
+        "Tested_With_BuildingGenerator": 1.4851,
+        "BDF": "NYG",
+        "Modules": {
+            "1": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.25
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L1_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_CornerEx_01_N1.SM_BLDG_NYG_L01_A_CornerEx_01_N1'",
+                    "Props": {
+                        "Group_CornerBottom": {
+                            "Group_Type": "Signage",
+                            "Probability": 35,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250107421875,
+                                        0.77904296875,
+                                        0.9049935913085938
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250107421875,
+                                        1.627900390625,
+                                        0.9049935913085938
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.6487792968750001,
+                                        0.2510546875,
+                                        0.9049936676025391
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        179.999755859375
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.799921875,
+                                        0.25107421875,
+                                        0.9049936676025391
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        179.999755859375
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Corner": {
+                            "Group_Type": "Signage",
+                            "Probability": 75,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Corner",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.1,
+                                        0.1,
+                                        5.6999560546875
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00012207031251
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+                                },
+                                "2": {
+                                    "Type": "Sign",
+                                    "var": "E",
+                                    "Offset": [
+                                        -0.25033203125000003,
+                                        1.10193359375,
+                                        4.506723022460938
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Sign",
+                                    "var": "E",
+                                    "Offset": [
+                                        -1.21033203125,
+                                        0.25193359375,
+                                        4.506723022460938
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+                                },
+                                "4": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -0.08982421875,
+                                        1.101962890625,
+                                        5.0128808593750005
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                },
+                                "5": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -1.2173828125000001,
+                                        0.266357421875,
+                                        5.0128808593750005
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        89.99993896484375
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals2": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "C",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_CornerEx_01_N1_decal.SM_BLDG_NYG_L01_A_CornerEx_01_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.25
+                    ],
+                    "Name": "L1_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_CornerEx_01_N1.SM_BLDG_NYG_L01_A_CornerEx_01_N1'",
+                    "Props": {
+                        "Group_CornerBottom2": {
+                            "Group_Type": "Signage",
+                            "Probability": 30,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250185546875,
+                                        0.770615234375,
+                                        0.9050038146972657
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250185546875,
+                                        1.6194726562500001,
+                                        0.9050038146972657
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.648857421875,
+                                        0.24262695312500002,
+                                        0.9050038909912109
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        179.999755859375
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.8,
+                                        0.242646484375,
+                                        0.9050038909912109
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        179.999755859375
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Corner2": {
+                            "Group_Type": "Signage",
+                            "Probability": 75,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Corner",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.100078125,
+                                        0.091572265625,
+                                        5.6999664306640625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00012207031251
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+                                },
+                                "2": {
+                                    "Type": "Sign",
+                                    "var": "E",
+                                    "Offset": [
+                                        -0.25041015625,
+                                        1.093505859375,
+                                        4.506733703613281
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Sign",
+                                    "var": "E",
+                                    "Offset": [
+                                        -1.21041015625,
+                                        0.243505859375,
+                                        4.506733703613281
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+                                },
+                                "4": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -0.089833984375,
+                                        1.099111328125,
+                                        5.0128808593750005
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                },
+                                "5": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -1.2173925781250001,
+                                        0.263505859375,
+                                        5.0128808593750005
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        89.99993896484375
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals3": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "C",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_CornerEx_01_N1_decal.SM_BLDG_NYG_L01_A_CornerEx_01_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.25
+                    ],
+                    "Name": "L1_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_CornerIn_01_N1.SM_BLDG_NYG_L01_A_CornerIn_01_N1'",
+                    "Props": {
+                        "Group_Decals5": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "C",
+                                    "Offset": [
+                                        0.0,
+                                        0.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_CornerIn_01_N1_decal.SM_BLDG_NYG_L01_A_CornerIn_01_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "E1": {
+                    "Mod_Dim": [
+                        8.0,
+                        6.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Entrance_01_N1.SM_BLDG_NYG_L01_A_Entrance_01_N1'",
+                    "Props": {
+                        "Group_Frosted4": {
+                            "Group_Type": "Frosted",
+                            "Probability": 80,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Helper",
+                                    "var": "DR",
+                                    "Offset": [
+                                        -4.38171875,
+                                        -4.71661376953125,
+                                        0.607058448791504
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.48750001192092896,
+                                        1.350000023841858
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Helper",
+                                    "var": "DL",
+                                    "Offset": [
+                                        -4.3820605468750005,
+                                        -3.77821533203125,
+                                        0.6142127227783203
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.48750001192092896,
+                                        1.3424999713897705
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -4.3905859375,
+                                        -5.526248779296875,
+                                        1.372338104248047
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.42485326528549194,
+                                        0.6850000023841858
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -4.390869140625,
+                                        -2.895592041015625,
+                                        1.372338104248047
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.41999998688697815,
+                                        0.6850000023841858
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "5": {
+                                    "Type": "Helper",
+                                    "var": "DWP",
+                                    "Offset": [
+                                        -4.3905859375,
+                                        -5.526248779296875,
+                                        0.29979135513305666
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.42249998450279236,
+                                        1.0049999952316284
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "6": {
+                                    "Type": "Helper",
+                                    "var": "DWP",
+                                    "Offset": [
+                                        -4.3930078125000005,
+                                        -2.895592041015625,
+                                        0.2998798370361328
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.42250001430511475,
+                                        1.0049999952316284
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right7": {
+                            "Group_Type": "Signage",
+                            "Probability": 40,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24583007812500002,
+                                        -0.26116821289062503,
+                                        3.2821331787109376
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Banner",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.246376953125,
+                                        -0.234029541015625,
+                                        3.3094268798828126
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.2000000476837158,
+                                        1.2000000476837158,
+                                        1.2000000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -0.267216796875,
+                                        -0.198336181640625,
+                                        3.4995172119140627
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250341796875,
+                                        -0.25384399414062503,
+                                        3.5252166748046876
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right6": {
+                            "Group_Type": "Signage",
+                            "Probability": 40,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24587890625,
+                                        -7.7643115234375,
+                                        3.2821331787109376
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Banner",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24642578125,
+                                        -7.7371728515625,
+                                        3.3094268798828126
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.2000000476837158,
+                                        1.2000000476837158,
+                                        1.2000000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "LargeBanner",
+                                    "var": "C",
+                                    "Offset": [
+                                        -0.267265625,
+                                        -7.7014794921875005,
+                                        3.4995172119140627
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        0.800000011920929,
+                                        0.800000011920929,
+                                        0.800000011920929
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250390625,
+                                        -7.7569873046875,
+                                        3.5252166748046876
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Entrance3": {
+                            "Group_Type": "Signage",
+                            "Probability": 75,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -4.268447265625,
+                                        -4.03747314453125,
+                                        5.213511352539062
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.5,
+                                        0.5,
+                                        0.5
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -4.10560546875,
+                                        -4.037401123046875,
+                                        3.0239346313476565
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.5,
+                                        0.5,
+                                        0.5
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_BottomPlaque": {
+                            "Group_Type": "Signage",
+                            "Probability": 10,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.39564453125,
+                                        -1.471175537109375,
+                                        0.8467173004150391
+                                    ],
+                                    "Rotation": [
+                                        0.0,
+                                        -0.0,
+                                        -179.999755859375
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Outlet",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.36984375,
+                                        -6.5380273437500005,
+                                        0.8467173004150391
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        0.0008544921874999999
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals4": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "E",
+                                    "Offset": [
+                                        0.0,
+                                        -8.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Entrance_01_N1_decal.SM_BLDG_NYG_L01_A_Entrance_01_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        6.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Column_01_N1.SM_BLDG_NYG_L01_A_Column_01_N1'",
+                    "Props": {
+                        "Group_Decals6": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "C",
+                                    "Offset": [
+                                        0.0,
+                                        -1.75,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Column_01_N1_decal.SM_BLDG_NYG_L01_A_Column_01_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        6.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Column_02_N1.SM_BLDG_NYG_L01_A_Column_02_N1'",
+                    "Props": {
+                        "Group_Sign": {
+                            "Group_Type": "Signage",
+                            "Probability": 30,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "E",
+                                    "Offset": [
+                                        -0.07295898437500001,
+                                        -1.5768505859375,
+                                        4.506733703613281
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals7": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "C",
+                                    "Offset": [
+                                        0.0,
+                                        -3.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Column_02_N1_decal.SM_BLDG_NYG_L01_A_Column_02_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "W1": {
+                    "Mod_Dim": [
+                        6.0,
+                        6.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Wall_1",
+                    "Grammar": "W1",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Wall_01_N1.SM_BLDG_NYG_L01_A_Wall_01_N1'",
+                    "Props": {
+                        "Group_Frosted3": {
+                            "Group_Type": "Frosted",
+                            "Probability": 80,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Helper",
+                                    "var": "DL",
+                                    "Offset": [
+                                        -1.80853515625,
+                                        -3.3638037109375,
+                                        0.6165444946289063
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.7299999594688416,
+                                        1.4474999904632568
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -0.90279296875,
+                                        -4.70951171875,
+                                        1.5840711975097657
+                                    ],
+                                    "Rotation": [
+                                        0.0,
+                                        -0.0,
+                                        -47.07262039184576
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.1274999380111694,
+                                        1.252500057220459
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -1.7335546875,
+                                        -2.06169921875,
+                                        1.584131317138672
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        47.1397705078125
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.1324999332427979,
+                                        1.2699999809265137
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right3": {
+                            "Group_Type": "Signage",
+                            "Probability": 30,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24587890625,
+                                        -5.8198095703125,
+                                        3.799942321777344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250390625,
+                                        -5.8124853515625,
+                                        4.043025817871094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Entrance2": {
+                            "Group_Type": "Signage",
+                            "Probability": 65,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.581337890625,
+                                        -2.9633496093750002,
+                                        4.7024078369140625
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.699999988079071,
+                                        0.699999988079071,
+                                        0.699999988079071
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Ceiling",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.8096289062500001,
+                                        -3.007470703125,
+                                        4.347893981933594
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00018310546875
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_B01_N1.SM_BLDG_Prop_BA_Ceiling_B01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Marquee",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.6738769531250001,
+                                        -3.047451171875,
+                                        4.372908325195312
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00012207031251
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Marquee_A01_N1.SM_BLDG_Prop_BA_Marquee_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right2": {
+                            "Group_Type": "Signage",
+                            "Probability": 25,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24611328125,
+                                        -0.2420703125,
+                                        3.799942321777344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.250625,
+                                        -0.23474609375,
+                                        4.043025817871094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals8": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "W",
+                                    "Offset": [
+                                        0.0,
+                                        -6.0,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Wall_01_N1.SM_BLDG_NYG_L01_A_Wall_01_N1'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "W3": {
+                    "Mod_Dim": [
+                        9.25,
+                        6.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Wall_3",
+                    "Grammar": "W3",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Wall_03_N1.SM_BLDG_NYG_L01_A_Wall_03_N1'",
+                    "Props": {
+                        "Group_Frosted2": {
+                            "Group_Type": "Frosted",
+                            "Probability": 80,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Helper",
+                                    "var": "W",
+                                    "Offset": [
+                                        -1.028232421875,
+                                        -7.9056298828125,
+                                        1.6272207641601564
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.9774999618530273,
+                                        1.6924999952316284
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Helper",
+                                    "var": "W",
+                                    "Offset": [
+                                        -1.024130859375,
+                                        -2.3236083984375,
+                                        1.6272207641601564
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.9774999618530273,
+                                        1.6799999475479126
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Helper",
+                                    "var": "W",
+                                    "Offset": [
+                                        -1.0244921875,
+                                        -4.527685546875,
+                                        1.6279396057128908
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.9924999475479126,
+                                        1.6799999475479126
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Helper",
+                                    "var": "W",
+                                    "Offset": [
+                                        -1.025205078125,
+                                        -6.7164404296875,
+                                        1.6272207641601564
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.997499942779541,
+                                        1.6875
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_lights3": {
+                            "Group_Type": "Signage",
+                            "Probability": 75,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.24919921875,
+                                        -9.0190771484375,
+                                        4.043025817871094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00000000000001
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_lights2": {
+                            "Group_Type": "Signage",
+                            "Probability": 75,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.24919921875,
+                                        -0.2697021484375,
+                                        4.043025817871094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00000000000001
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Entrance_sign2": {
+                            "Group_Type": "Signage",
+                            "Probability": 25,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.571875,
+                                        -4.586689453125,
+                                        4.7301397705078125
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00000000000001
+                                    ],
+                                    "Scale": [
+                                        0.9302679896354675,
+                                        0.9302679896354675,
+                                        0.9302679896354675
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.571875,
+                                        -4.586689453125,
+                                        5.0084167480468755
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00000000000001
+                                    ],
+                                    "Scale": [
+                                        1.2999999523162842,
+                                        1.2999999523162842,
+                                        1.2999999523162842
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Ceiling",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.652861328125,
+                                        -4.635546875,
+                                        4.347231140136719
+                                    ],
+                                    "Rotation": [
+                                        0.0,
+                                        -0.0,
+                                        -90.00013732910156
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_B01_N1.SM_BLDG_Prop_BA_Ceiling_B01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals9": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "W",
+                                    "Offset": [
+                                        0.0,
+                                        -9.25,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Wall_03_decal.SM_BLDG_NYG_L01_A_Wall_03_decal'"
+                                }
+                            }
+                        }
+                    }
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        6.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L1_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 1,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Wall_04_N1.SM_BLDG_NYG_L01_A_Wall_04_N1'",
+                    "Props": {
+                        "Group_Frosted": {
+                            "Group_Type": "Frosted",
+                            "Probability": 80,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -0.868388671875,
+                                        -8.0305517578125,
+                                        1.5837283325195313
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.2024999856948853,
+                                        1.2674999237060547
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -0.867822265625,
+                                        -2.42533203125,
+                                        1.5835183715820313
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.2049999237060547,
+                                        1.2699999809265137
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Helper",
+                                    "var": "DR",
+                                    "Offset": [
+                                        -1.80958984375,
+                                        -5.3412109375000005,
+                                        0.607058448791504
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.48749998211860657,
+                                        1.4649999141693115
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Helper",
+                                    "var": "DL",
+                                    "Offset": [
+                                        -1.810517578125,
+                                        -4.3957275390625,
+                                        0.6073867034912109
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        0.4899999797344208,
+                                        1.4649999141693115
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "5": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -0.90400390625,
+                                        -6.73468994140625,
+                                        1.5835682678222656
+                                    ],
+                                    "Rotation": [
+                                        0.0,
+                                        -0.0,
+                                        -45.04040908813478
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.1699999570846558,
+                                        1.272499918937683
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                },
+                                "6": {
+                                    "Type": "Helper",
+                                    "var": "DW",
+                                    "Offset": [
+                                        -1.7310644531250001,
+                                        -3.3420263671875,
+                                        1.5854136657714843
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        45.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.1699999570846558,
+                                        1.2674999237060547
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Sticker/Mesh/SM_BLDG_Prop_Frosted_Helper_A01_N1.SM_BLDG_Prop_Frosted_Helper_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right5": {
+                            "Group_Type": "Signage",
+                            "Probability": 30,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24587890625,
+                                        -9.0714404296875,
+                                        3.799942321777344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Banner",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24642578125,
+                                        -9.0443017578125,
+                                        2.9479989624023437
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.2000000476837158,
+                                        1.2000000476837158,
+                                        1.2000000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Sign_Right4": {
+                            "Group_Type": "Signage",
+                            "Probability": 25,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Sign",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24587890625,
+                                        -0.28423095703125,
+                                        3.799942321777344
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Banner",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.24642578125,
+                                        -0.25709228515625,
+                                        2.9479989624023437
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.2000000476837158,
+                                        1.2000000476837158,
+                                        1.2000000476837158
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Small_Light2": {
+                            "Group_Type": "Signage",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.778994140625,
+                                        -5.69912841796875,
+                                        2.8801669311523437
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.699999988079071,
+                                        0.699999988079071,
+                                        0.699999988079071
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Small_Light": {
+                            "Group_Type": "Signage",
+                            "Probability": 50,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Wall",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.778994140625,
+                                        -3.5349365234375,
+                                        2.8801669311523437
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.699999988079071,
+                                        0.699999988079071,
+                                        0.699999988079071
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Entrance": {
+                            "Group_Type": "Signage",
+                            "Probability": 35,
+                            "MaxLimit": 10,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.590556640625,
+                                        -4.61722412109375,
+                                        4.698833923339844
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "2": {
+                                    "Type": "Text",
+                                    "var": "A",
+                                    "Offset": [
+                                        -1.826650390625,
+                                        -4.61722412109375,
+                                        3.0062542724609376
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00006103515625
+                                    ],
+                                    "Scale": [
+                                        0.5,
+                                        0.5,
+                                        0.5
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'"
+                                },
+                                "3": {
+                                    "Type": "Ceiling",
+                                    "var": "B",
+                                    "Offset": [
+                                        -0.8096289062500001,
+                                        -4.61722412109375,
+                                        4.350907592773438
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00018310546875
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_B01_N1.SM_BLDG_Prop_BA_Ceiling_B01_N1'"
+                                },
+                                "4": {
+                                    "Type": "Marquee",
+                                    "var": "A",
+                                    "Offset": [
+                                        -0.6998828125000001,
+                                        -4.61722412109375,
+                                        4.715027770996094
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        0.0,
+                                        90.00012207031251
+                                    ],
+                                    "Scale": [
+                                        1.399999976158142,
+                                        1.399999976158142,
+                                        1.399999976158142
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Marquee_A01_N1.SM_BLDG_Prop_BA_Marquee_A01_N1'"
+                                }
+                            }
+                        },
+                        "Group_Decals10": {
+                            "Group_Type": "ground_decal",
+                            "Probability": 100,
+                            "MaxLimit": 50,
+                            "Anchors": {
+                                "1": {
+                                    "Type": "A",
+                                    "var": "W",
+                                    "Offset": [
+                                        0.0,
+                                        -9.25,
+                                        0.03
+                                    ],
+                                    "Rotation": [
+                                        -0.0,
+                                        -0.0,
+                                        -0.0
+                                    ],
+                                    "Scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L1_A/decal/SM_BLDG_NYG_L01_A_Wall_04_N1_decal.SM_BLDG_NYG_L01_A_Wall_04_N1_decal'"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "10": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.5
+                    ],
+                    "Name": "L10_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 10,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L10_A/Mesh/SM_BLDG_NYG_L10_A_CornerEx_01_N1.SM_BLDG_NYG_L10_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.5
+                    ],
+                    "Name": "L10_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 10,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L10_A/Mesh/SM_BLDG_NYG_L10_A_CornerIn_01_N1.SM_BLDG_NYG_L10_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.5
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L10_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 10,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L10_A/Mesh/SM_BLDG_NYG_L10_A_Column_01_N1.SM_BLDG_NYG_L10_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L10_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 10,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L10_A/Mesh/SM_BLDG_NYG_L10_A_Wall_02_N1.SM_BLDG_NYG_L10_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L10_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 10,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L10_A/Mesh/SM_BLDG_NYG_L10_A_Wall_06_N1.SM_BLDG_NYG_L10_A_Wall_06_N1'"
+                }
+            },
+            "11": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        7.75
+                    ],
+                    "Name": "L11_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 11,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L11_A/Mesh/SM_BLDG_NYG_L11_A_CornerEx_01_N1.SM_BLDG_NYG_L11_A_CornerEx_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        7.75
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L11_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 11,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L11_A/Mesh/SM_BLDG_NYG_L11_A_Column_01_N1.SM_BLDG_NYG_L11_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        3.0,
+                        7.75
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L11_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 11,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L11_A/Mesh/SM_BLDG_NYG_L11_A_Wall_02_N1.SM_BLDG_NYG_L11_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        7.75
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L11_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 11,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L11_A/Mesh/SM_BLDG_NYG_L11_A_Wall_06_N1.SM_BLDG_NYG_L11_A_Wall_06_N1'"
+                }
+            },
+            "12": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L12_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 12,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L12_A/Mesh/SM_BLDG_NYG_L12_A_CornerEx_01_N1.SM_BLDG_NYG_L12_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L12_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 12,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L12_A/Mesh/SM_BLDG_NYG_L12_A_CornerIn_01_N1.SM_BLDG_NYG_L12_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L12_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 12,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L12_A/Mesh/SM_BLDG_NYG_L12_A_Column_01_N1.SM_BLDG_NYG_L12_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L12_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 12,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L12_A/Mesh/SM_BLDG_NYG_L12_A_Wall_02_N1.SM_BLDG_NYG_L12_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L12_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 12,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L12_A/Mesh/SM_BLDG_NYG_L12_A_Wall_06_N1.SM_BLDG_NYG_L12_A_Wall_06_N1'"
+                }
+            },
+            "13": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L13_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 13,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L13_A/Mesh/SM_BLDG_NYG_L13_A_CornerEx_01_N1.SM_BLDG_NYG_L13_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L13_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 13,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L13_A/Mesh/SM_BLDG_NYG_L13_A_CornerIn_01_N1.SM_BLDG_NYG_L13_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L13_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 13,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L13_A/Mesh/SM_BLDG_NYG_L13_A_Column_01_N1.SM_BLDG_NYG_L13_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L13_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 13,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L13_A/Mesh/SM_BLDG_NYG_L13_A_Wall_02_N1.SM_BLDG_NYG_L13_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L13_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 13,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L13_A/Mesh/SM_BLDG_NYG_L13_A_Wall_06_N1.SM_BLDG_NYG_L13_A_Wall_06_N1'"
+                }
+            },
+            "14": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        7.75
+                    ],
+                    "Name": "L14_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 14,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L14_A/Mesh/SM_BLDG_NYG_L14_A_CornerEx_01_N1.SM_BLDG_NYG_L14_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        3.0,
+                        7.75
+                    ],
+                    "Name": "L14_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 14,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L14_A/Mesh/SM_BLDG_NYG_L14_A_CornerIn_01_N1.SM_BLDG_NYG_L14_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        7.75
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L14_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 14,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L14_A/Mesh/SM_BLDG_NYG_L14_A_Column_01_N1.SM_BLDG_NYG_L14_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        3.0,
+                        7.75
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L14_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 14,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L14_A/Mesh/SM_BLDG_NYG_L14_A_Wall_02_N1.SM_BLDG_NYG_L14_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        7.75
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L14_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 14,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L14_A/Mesh/SM_BLDG_NYG_L14_A_Wall_06_N1.SM_BLDG_NYG_L14_A_Wall_06_N1'"
+                }
+            },
+            "17": {
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        1.82
+                    ],
+                    "Name": "L17_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_CornerEx_01_N1.SM_BLDG_NYG_L017_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        1.82
+                    ],
+                    "Name": "L17_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_CornerIn_01_N1.SM_BLDG_NYG_L017_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        1.82
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L17_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_Column_01_N1.SM_BLDG_NYG_L017_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        1.82
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L17_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_Column_02_N1.SM_BLDG_NYG_L017_A_Column_02_N1'"
+                },
+                "P3": {
+                    "Mod_Dim": [
+                        1.75,
+                        1.82
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L17_A1_Pillar_3",
+                    "Grammar": "P3",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_Column_03_N1.SM_BLDG_NYG_L017_A_Column_03_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        1.82
+                    ],
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L17_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_Wall_02_N3.SM_BLDG_NYG_L017_A_Wall_02_N3'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        1.82
+                    ],
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L17_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 17,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L17_A/Mesh/SM_BLDG_NYG_L017_A_Wall_04_N3.SM_BLDG_NYG_L017_A_Wall_04_N3'"
+                }
+            },
+            "2": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        9.25
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L2_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_CornerEx_01_N1.SM_BLDG_NYG_L02_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        9.25
+                    ],
+                    "Name": "L2_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_CornerEx_01_N1.SM_BLDG_NYG_L02_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        9.25
+                    ],
+                    "Name": "L2_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_CornerIn_01_N1.SM_BLDG_NYG_L02_A_CornerIn_01_N1'"
+                },
+                "E1": {
+                    "Mod_Dim": [
+                        8.0,
+                        9.25
+                    ],
+                    "Name": "L2_A1_Entrance_1",
+                    "Grammar": "E1",
+                    "Level": 2,
+                    "AssetRef": "None"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        9.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_Column_01_N1.SM_BLDG_NYG_L02_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        9.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_Column_02_N1.SM_BLDG_NYG_L02_A_Column_02_N1'"
+                },
+                "P3": {
+                    "Mod_Dim": [
+                        1.75,
+                        9.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Pillar_3",
+                    "Grammar": "P3",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_Column_03_N1.SM_BLDG_NYG_L02_A_Column_03_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        9.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_Wall_02_N1.SM_BLDG_NYG_L02_A_Wall_02_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        9.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L2_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 2,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L2_A/Mesh/SM_BLDG_NYG_L02_A_Wall_04_N1.SM_BLDG_NYG_L02_A_Wall_04_N1'"
+                }
+            },
+            "3": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L3_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_CornerEx_01_N1.SM_BLDG_NYG_L03_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Name": "L3_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_CornerEx_01_N1.SM_BLDG_NYG_L03_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Name": "L3_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_CornerIn_01_N1.SM_BLDG_NYG_L03_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.5
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L3_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_Column_01_N1.SM_BLDG_NYG_L03_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.5
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L3_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_Column_02_N1.SM_BLDG_NYG_L03_A_Column_02_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L3_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_Wall_02_N1.SM_BLDG_NYG_L03_A_Wall_02_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L3_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_Wall_04_N1.SM_BLDG_NYG_L03_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L3_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 3,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L3_A/Mesh/SM_BLDG_NYG_L03_A_Wall_06_N1.SM_BLDG_NYG_L03_A_Wall_06_N1'"
+                }
+            },
+            "4": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.25
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L4_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_CornerEx_01_N1.SM_BLDG_NYG_L04_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.25
+                    ],
+                    "Name": "L4_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_CornerEx_01_N1.SM_BLDG_NYG_L04_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.25
+                    ],
+                    "Name": "L4_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_CornerIn_01_N1.SM_BLDG_NYG_L04_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L4_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_Column_01_N1.SM_BLDG_NYG_L04_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L4_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_Column_02_N1.SM_BLDG_NYG_L04_A_Column_02_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L4_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_Wall_02_N1.SM_BLDG_NYG_L04_A_Wall_02_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L4_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_Wall_04_N1.SM_BLDG_NYG_L04_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L4_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 4,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L4_A/Mesh/SM_BLDG_NYG_L04_A_Wall_06_N1.SM_BLDG_NYG_L04_A_Wall_06_N1'"
+                }
+            },
+            "5": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L5_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_CornerEx_01_N1.SM_BLDG_NYG_L05_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Name": "L5_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_CornerEx_01_N1.SM_BLDG_NYG_L05_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        4.5
+                    ],
+                    "Name": "L5_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_CornerIn_01_N1.SM_BLDG_NYG_L05_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.5
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L5_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_Column_01_N1.SM_BLDG_NYG_L05_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.5
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L5_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_Column_02_N1.SM_BLDG_NYG_L05_A_Column_02_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L5_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_Wall_02_N1.SM_BLDG_NYG_L05_A_Wall_02_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L5_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_Wall_04_N1.SM_BLDG_NYG_L05_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L5_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 5,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L5_A/Mesh/SM_BLDG_NYG_L05_A_Wall_06_N1.SM_BLDG_NYG_L05_A_Wall_06_N1'"
+                }
+            },
+            "6": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        12.0
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L6_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_CornerEx_01_N1.SM_BLDG_NYG_L06_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        12.0
+                    ],
+                    "Name": "L6_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_CornerEx_01_N1.SM_BLDG_NYG_L06_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        12.0
+                    ],
+                    "Name": "L6_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_CornerIn_01_N1.SM_BLDG_NYG_L06_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        12.0
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Column_01_N1.SM_BLDG_NYG_L06_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        12.0
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Column_02_N1.SM_BLDG_NYG_L06_A_Column_02_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        12.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Wall_02_N1.SM_BLDG_NYG_L06_A_Wall_02_N1'"
+                },
+                "W3": {
+                    "Mod_Dim": [
+                        9.25,
+                        12.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Wall_3",
+                    "Grammar": "W3",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Wall_03_N1.SM_BLDG_NYG_L06_A_Wall_03_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        12.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Wall_04_N1.SM_BLDG_NYG_L06_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        12.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L6_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 6,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L6_A/Mesh/SM_BLDG_NYG_L06_A_Wall_06_N1.SM_BLDG_NYG_L06_A_Wall_06_N1'"
+                }
+            },
+            "7": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.0
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L7_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_CornerEx_01_N1.SM_BLDG_NYG_L07_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.0
+                    ],
+                    "Name": "L7_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_CornerEx_01_N1.SM_BLDG_NYG_L07_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        2.0,
+                        6.0
+                    ],
+                    "Name": "L7_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_CornerIn_01_N1.SM_BLDG_NYG_L07_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        6.0
+                    ],
+                    "Offset": [
+                        0.0,
+                        1.75,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Column_01_N1.SM_BLDG_NYG_L07_A_Column_01_N1'"
+                },
+                "P2": {
+                    "Mod_Dim": [
+                        3.0,
+                        6.0
+                    ],
+                    "Offset": [
+                        0.0,
+                        3.0,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Pillar_2",
+                    "Grammar": "P2",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Column_02_N1.SM_BLDG_NYG_L07_A_Column_02_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        6.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Wall_02_N1.SM_BLDG_NYG_L07_A_Wall_02_N1'"
+                },
+                "W3": {
+                    "Mod_Dim": [
+                        9.25,
+                        6.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Wall_3",
+                    "Grammar": "W3",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Wall_03_N1.SM_BLDG_NYG_L07_A_Wall_03_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        6.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Wall_04_N1.SM_BLDG_NYG_L07_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        6.0
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        8.0,
+                        0.0
+                    ],
+                    "Name": "L7_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 7,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L7_A/Mesh/SM_BLDG_NYG_L07_A_Wall_06_N1.SM_BLDG_NYG_L07_A_Wall_06_N1'"
+                }
+            },
+            "8": {
+                "C_CE": {
+                    "Mod_Dim": [
+                        2.0,
+                        8.5
+                    ],
+                    "Rotation": -45.0,
+                    "Name": "L8_A1_CornerCapEx_1",
+                    "Grammar": "C_CE",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_CornerEx_01_N1.SM_BLDG_NYG_L08_A_CornerEx_01_N1'"
+                },
+                "C_E": {
+                    "Mod_Dim": [
+                        2.0,
+                        8.5
+                    ],
+                    "Name": "L8_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_CornerEx_01_N1.SM_BLDG_NYG_L08_A_CornerEx_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        8.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        6.0,
+                        0.0
+                    ],
+                    "Name": "L8_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_Wall_02_N1.SM_BLDG_NYG_L08_A_Wall_02_N1'"
+                },
+                "W3": {
+                    "Mod_Dim": [
+                        9.25,
+                        8.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L8_A1_Wall_3",
+                    "Grammar": "W3",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_Wall_03_N1.SM_BLDG_NYG_L08_A_Wall_03_N1'"
+                },
+                "W4": {
+                    "Mod_Dim": [
+                        9.25,
+                        8.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        9.25,
+                        0.0
+                    ],
+                    "Name": "L8_A1_Wall_4",
+                    "Grammar": "W4",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_Wall_04_N1.SM_BLDG_NYG_L08_A_Wall_04_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        29.5,
+                        8.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        29.5,
+                        0.0
+                    ],
+                    "Name": "L8_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_Wall_06_N1.SM_BLDG_NYG_L08_A_Wall_06_N1'"
+                },
+                "W8": {
+                    "Mod_Dim": [
+                        12.75,
+                        8.5
+                    ],
+                    "HasWindow": 1,
+                    "Offset": [
+                        0.0,
+                        12.75,
+                        0.0
+                    ],
+                    "Name": "L8_A1_Wall_8",
+                    "Grammar": "W8",
+                    "Level": 8,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L8_A/Mesh/SM_BLDG_NYG_L08_A_Wall_08_N1.SM_BLDG_NYG_L08_A_Wall_08_N1'"
+                }
+            },
+            "9": {
+                "C_E": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L9_A1_CornerEx_1",
+                    "Grammar": "C_E",
+                    "Level": 9,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L9_A/Mesh/SM_BLDG_NYG_L09_A_CornerEx_01_N1.SM_BLDG_NYG_L09_A_CornerEx_01_N1'"
+                },
+                "C_I": {
+                    "Mod_Dim": [
+                        3.0,
+                        4.25
+                    ],
+                    "Name": "L9_A1_CornerIn_1",
+                    "Grammar": "C_I",
+                    "Level": 9,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L9_A/Mesh/SM_BLDG_NYG_L09_A_CornerIn_01_N1.SM_BLDG_NYG_L09_A_CornerIn_01_N1'"
+                },
+                "P1": {
+                    "Mod_Dim": [
+                        1.75,
+                        4.25
+                    ],
+                    "Name": "L9_A1_Pillar_1",
+                    "Grammar": "P1",
+                    "Level": 9,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L9_A/Mesh/SM_BLDG_NYG_L09_A_Column_01_N1.SM_BLDG_NYG_L09_A_Column_01_N1'"
+                },
+                "W2": {
+                    "Mod_Dim": [
+                        6.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L9_A1_Wall_2",
+                    "Grammar": "W2",
+                    "Level": 9,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L9_A/Mesh/SM_BLDG_NYG_L09_A_Wall_02_N1.SM_BLDG_NYG_L09_A_Wall_02_N1'"
+                },
+                "W6": {
+                    "Mod_Dim": [
+                        8.0,
+                        4.25
+                    ],
+                    "HasWindow": 1,
+                    "Name": "L9_A1_Wall_6",
+                    "Grammar": "W6",
+                    "Level": 9,
+                    "AssetRef": "StaticMesh'/Game/Building/NY/G/Kit_Bldg_NYG_L9_A/Mesh/SM_BLDG_NYG_L09_A_Wall_06_N1.SM_BLDG_NYG_L09_A_Wall_06_N1'"
+                }
+            }
+        },
+        "Levels": {
+            "1": {
+                "LevelNum": 1,
+                "Height": 6.25,
+                "F0": [
+                    "C|(W1-P2)*|[W4-P2]1|E1|[P2-W4]1|(P2-W1)*|C",
+                    "C|(W1-P2)*|W4|(P2-W1)*|C",
+                    "C|(W1)*|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "2": {
+                "LevelNum": 2,
+                "Height": 9.25,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|E1|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "3": {
+                "LevelNum": 3,
+                "Height": 4.5,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Topper": 17,
+                "Alignment_Level": 2
+            },
+            "4": {
+                "LevelNum": 4,
+                "Height": 4.25,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Repeat": 1,
+                "Topper": 17,
+                "Alignment_Level": 2
+            },
+            "5": {
+                "LevelNum": 5,
+                "Height": 4.5,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Topper": 17,
+                "Alignment_Level": 2
+            },
+            "6": {
+                "LevelNum": 6,
+                "Height": 12.0,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Topper": 17,
+                "Alignment_Level": 2
+            },
+            "7": {
+                "LevelNum": 7,
+                "Height": 6.0,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Topper": 17,
+                "Alignment_Level": 2
+            },
+            "8": {
+                "LevelNum": 8,
+                "Height": 8.5,
+                "F0": [
+                    "C|W3|(W2)*|W8|W4|C",
+                    "C|W3*|W4*|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "9": {
+                "LevelNum": 9,
+                "Height": 4.25,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "10": {
+                "LevelNum": 10,
+                "Height": 4.5,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "11": {
+                "LevelNum": 11,
+                "Height": 7.75,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "12": {
+                "LevelNum": 12,
+                "Height": 4.25,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "13": {
+                "LevelNum": 13,
+                "Height": 4.25,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "14": {
+                "LevelNum": 14,
+                "Height": 7.75,
+                "F0": [
+                    "C|W2|C",
+                    "C|W2|C"
+                ],
+                "Alignment_Level": 2
+            },
+            "17": {
+                "LevelNum": 17,
+                "Height": 1.82,
+                "F0": [
+                    "C|(W2-P2)*|[W4-P2]1|W6|[P2-W4]1|(P2-W2)*|C",
+                    "C|(W2-P2)*|W4|(P2-W2)*|C",
+                    "C|(W2)*|C"
+                ],
+                "Alignment_Level": 2
+            }
+        },
+        "mirrorPivot": 0,
+        "minWallWidth": "22",
+        "minBldgHeight": "30",
+        "maxBldgHeight": "2000",
+        "Roof_Inset": 0.6499999761581421,
+        "Roof_Offset": 0.25,
+        "SubRoof_Inset": 0.4000000059604645,
+        "SubRoof_Offset": 0.10000000149011612,
+        "LevelsGrammar": {
+            "0": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "1": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "2": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        }
+    }
+}

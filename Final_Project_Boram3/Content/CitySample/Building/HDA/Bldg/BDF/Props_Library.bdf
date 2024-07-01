@@ -1,0 +1,1241 @@
+{
+    "Type": "PropDefinitionFile",
+    "Author": "votch.levi",
+    "LastGenerated": "072821 @ 18:28:40.952623",
+    "Version": 0.01,
+    "Module_Props": {
+        "Kit_LightSign": {
+            "SignTall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A04_N1.SM_BLDG_Prop_LightSign_SignTall_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A03_N1.SM_BLDG_Prop_LightSign_SignTall_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A02_N1.SM_BLDG_Prop_LightSign_SignTall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A01_N1.SM_BLDG_Prop_LightSign_SignTall_A01_N1'"
+            ],
+            "SignShort": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A03_N1.SM_BLDG_Prop_LightSign_SignShort_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A02_N1.SM_BLDG_Prop_LightSign_SignShort_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A01_N1.SM_BLDG_Prop_LightSign_SignShort_A01_N1'"
+            ],
+            "SignFlushSmall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlushSmall_A01_N1.SM_BLDG_Prop_LightSign_SignFlushSmall_A01_N1'"
+            ],
+            "SignFlush": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A05_N1.SM_BLDG_Prop_LightSign_SignFlush_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A04_N1.SM_BLDG_Prop_LightSign_SignFlush_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A03_N1.SM_BLDG_Prop_LightSign_SignFlush_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A02_N1.SM_BLDG_Prop_LightSign_SignFlush_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A01_N1.SM_BLDG_Prop_LightSign_SignFlush_A01_N1'"
+            ]
+        },
+        "Kit_Prop_Sticker": {
+            "Helper": [
+                "StaticMesh'/Game/Prop/Kit_WindowStickers/mesh/SM_BLDG_Prop_WindowSticker_helper_B01_N1.SM_BLDG_Prop_WindowSticker_helper_B01_N1'"
+            ]
+        },
+        "Kit_Prop_NumberB": {
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ]
+        },
+        "Kit_Prop_SC": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Awning_A01_N1.SM_BLDG_Prop_SC_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Awning_B01_N1.SM_BLDG_Prop_SC_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Awning_C01_N1.SM_BLDG_Prop_SC_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Awning_D01_N1.SM_BLDG_Prop_SC_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Banner_A01_N1.SM_BLDG_Prop_SC_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Banner_B01_N1.SM_BLDG_Prop_SC_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_LargeBanner_C01_N1.SM_BLDG_Prop_SC_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_BoardL_A01_N1.SM_BLDG_Prop_SC_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_BoardM_A01_N1.SM_BLDG_Prop_SC_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_BoardR_A01_N1.SM_BLDG_Prop_SC_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Ceiling_A01_N1.SM_BLDG_Prop_SC_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Ceiling_B01_N1.SM_BLDG_Prop_SC_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Sign_A01_N1.SM_BLDG_Prop_SC_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Sign_B01_N1.SM_BLDG_Prop_SC_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Sign_C01_N1.SM_BLDG_Prop_SC_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Sign_D01_N1.SM_BLDG_Prop_SC_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Sign_E01_N1.SM_BLDG_Prop_SC_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Text_A01_N1.SM_BLDG_Prop_SC_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SC/Mesh/SM_BLDG_Prop_SC_Text_B01_N1.SM_BLDG_Prop_SC_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_SB": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Awning_A01_N1.SM_BLDG_Prop_SB_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Awning_B01_N1.SM_BLDG_Prop_SB_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Awning_C01_N1.SM_BLDG_Prop_SB_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Awning_D01_N1.SM_BLDG_Prop_SB_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Banner_A01_N1.SM_BLDG_Prop_SB_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Banner_B01_N1.SM_BLDG_Prop_SB_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_LargeBanner_C01_N1.SM_BLDG_Prop_SB_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardL_A01_N1.SM_BLDG_Prop_BA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_BoardM_A01_N1.SM_BLDG_Prop_SB_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardR_A01_N1.SM_BLDG_Prop_BA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Ceiling_A01_N1.SM_BLDG_Prop_SB_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Ceiling_B01_N1.SM_BLDG_Prop_SB_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Sign_A01_N1.SM_BLDG_Prop_SB_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Sign_B01_N1.SM_BLDG_Prop_SB_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Sign_C01_N1.SM_BLDG_Prop_SB_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Sign_D01_N1.SM_BLDG_Prop_SB_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Sign_E01_N1.SM_BLDG_Prop_SB_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Text_A01_N1.SM_BLDG_Prop_SB_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SB/Mesh/SM_BLDG_Prop_SB_Text_B01_N1.SM_BLDG_Prop_SB_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_SA": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Awning_A01_N1.SM_BLDG_Prop_SA_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Awning_B01_N1.SM_BLDG_Prop_SA_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Awning_C01_N1.SM_BLDG_Prop_SA_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Awning_D01_N1.SM_BLDG_Prop_SA_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Banner_A01_N1.SM_BLDG_Prop_SA_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Banner_B01_N1.SM_BLDG_Prop_SA_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_LargeBanner_C01_N1.SM_BLDG_Prop_SA_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_BoardL_A01_N1.SM_BLDG_Prop_SA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_BoardM_A01_N1.SM_BLDG_Prop_SA_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_BoardR_A01_N1.SM_BLDG_Prop_SA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Ceiling_A01_N1.SM_BLDG_Prop_SA_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Ceiling_B01_N1.SM_BLDG_Prop_SA_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Sign_A01_N1.SM_BLDG_Prop_SA_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Sign_B01_N1.SM_BLDG_Prop_SA_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Sign_C01_N1.SM_BLDG_Prop_SA_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Sign_D01_N1.SM_BLDG_Prop_SA_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Sign_E01_N1.SM_BLDG_Prop_SA_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Text_A01_N1.SM_BLDG_Prop_SA_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/S/Kit_Prop_SA/Mesh/SM_BLDG_Prop_SA_Text_B01_N1.SM_BLDG_Prop_SA_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_RB": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Awning_B01_N1.SM_BLDG_Prop_RB_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Awning_C01_N1.SM_BLDG_Prop_RB_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Awning_D01_N1.SM_BLDG_Prop_RB_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Banner_A01_N1.SM_BLDG_Prop_RB_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Banner_B01_N1.SM_BLDG_Prop_RB_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_LargeBanner_C01_N1.SM_BLDG_Prop_RB_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_BoardL_A01_N1.SM_BLDG_Prop_RB_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_BoardM_A01_N1.SM_BLDG_Prop_RB_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_BoardR_A01_N1.SM_BLDG_Prop_RB_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Ceiling_A01_N1.SM_BLDG_Prop_RB_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Ceiling_B01_N1.SM_BLDG_Prop_RB_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Sign_A01_N1.SM_BLDG_Prop_RB_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Sign_B01_N1.SM_BLDG_Prop_RB_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Sign_C01_N1.SM_BLDG_Prop_RB_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Sign_D01_N1.SM_BLDG_Prop_RB_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Sign_E01_N1.SM_BLDG_Prop_RB_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Text_A01_N1.SM_BLDG_Prop_RB_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_RB_Text_B01_N1.SM_BLDG_Prop_RB_Text_B01_N1'"
+            ],
+            "RB": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RB/Mesh/SM_BLDG_Prop_Awning_RB_A01_N1.SM_BLDG_Prop_Awning_RB_A01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_RA": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Awning_A01_N1.SM_BLDG_Prop_RA_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Awning_B01_N1.SM_BLDG_Prop_RA_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Awning_C01_N1.SM_BLDG_Prop_RA_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Awning_D01_N1.SM_BLDG_Prop_RA_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Banner_A01_N1.SM_BLDG_Prop_RA_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Banner_B01_N1.SM_BLDG_Prop_RA_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_LargeBanner_C01_N1.SM_BLDG_Prop_RA_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_BoardL_A01_N1.SM_BLDG_Prop_RA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_BoardM_A01_N1.SM_BLDG_Prop_RA_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_BoardR_A01_N1.SM_BLDG_Prop_RA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Ceiling_A01_N1.SM_BLDG_Prop_RA_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Ceiling_B01_N1.SM_BLDG_Prop_RA_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Sign_A01_N1.SM_BLDG_Prop_RA_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Sign_B01_N1.SM_BLDG_Prop_RA_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Sign_C01_N1.SM_BLDG_Prop_RA_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Sign_D01_N1.SM_BLDG_Prop_RA_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Sign_E01_N1.SM_BLDG_Prop_RA_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Text_A01_N1.SM_BLDG_Prop_RA_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/R/Kit_Prop_RA/Mesh/SM_BLDG_Prop_RA_Text_B01_N1.SM_BLDG_Prop_RA_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_HA": {
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Awning_A01_N1.SM_BLDG_Prop_HA_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Awning_B01_N1.SM_BLDG_Prop_HA_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Awning_C01_N1.SM_BLDG_Prop_HA_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Awning_D01_N1.SM_BLDG_Prop_HA_Awning_D01_N1'"
+            ],
+            "Marquee": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Marquee_A01_N1.SM_BLDG_Prop_BA_Marquee_A01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Banner_A01_N1.SM_BLDG_Prop_HA_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Banner_B01_N1.SM_BLDG_Prop_HA_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_LargeBanner_C01_N1.SM_BLDG_Prop_HA_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_BoardL_A01_N1.SM_BLDG_Prop_HA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_BoardM_A01_N1.SM_BLDG_Prop_HA_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_BoardR_A01_N1.SM_BLDG_Prop_HA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Ceiling_A01_N1.SM_BLDG_Prop_HA_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Ceiling_B01_N1.SM_BLDG_Prop_HA_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Sign_A01_N1.SM_BLDG_Prop_HA_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Sign_B01_N1.SM_BLDG_Prop_HA_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Sign_C01_N1.SM_BLDG_Prop_HA_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Sign_D01_N1.SM_BLDG_Prop_HA_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Sign_E01_N1.SM_BLDG_Prop_HA_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Text_A01_N1.SM_BLDG_Prop_HA_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/H/Kit_Prop_HA/Mesh/SM_BLDG_Prop_HA_Text_B01_N1.SM_BLDG_Prop_HA_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_CA": {
+            "ATM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_ATM_A01_N1.SM_BLDG_Prop_BA_ATM_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_ATM_B01_N1.SM_BLDG_Prop_BA_ATM_B01_N1'"
+            ],
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_A01_N1.SM_BLDG_Prop_BA_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_B01_N1.SM_BLDG_Prop_BA_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_C01_N1.SM_BLDG_Prop_BA_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_D01_N1.SM_BLDG_Prop_BA_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardL_A01_N1.SM_BLDG_Prop_BA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardR_A01_N1.SM_BLDG_Prop_BA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_A01_N1.SM_BLDG_Prop_BA_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_B01_N1.SM_BLDG_Prop_BA_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_A01_N1.SM_BLDG_Prop_BA_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_C01_N1.SM_BLDG_Prop_BA_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_B01_N1.SM_BLDG_Prop_BA_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_BC": {
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardL_A01_N1.SM_BLDG_Prop_BA_BoardL_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardR_A01_N1.SM_BLDG_Prop_BA_BoardR_A01_N1'"
+            ],
+            "ATM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_ATM_A01_N1.SM_BLDG_Prop_BC_ATM_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_ATM_B01_N1.SM_BLDG_Prop_BC_ATM_B01_N1'"
+            ],
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Awning_A01_N1.SM_BLDG_Prop_BC_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Awning_B01_N1.SM_BLDG_Prop_BC_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Awning_C01_N1.SM_BLDG_Prop_BC_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Awning_D01_N1.SM_BLDG_Prop_BC_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Banner_A01_N1.SM_BLDG_Prop_BC_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Banner_B01_N1.SM_BLDG_Prop_BC_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_LargeBanner_C01_N1.SM_BLDG_Prop_BC_LargeBanner_C01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_BoardM_A01_N1.SM_BLDG_Prop_BC_BoardM_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Ceiling_A01_N1.SM_BLDG_Prop_BC_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Ceiling_B01_N1.SM_BLDG_Prop_BC_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Sign_A01_N1.SM_BLDG_Prop_BC_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Sign_B01_N1.SM_BLDG_Prop_BC_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Sign_C01_N1.SM_BLDG_Prop_BC_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Sign_D01_N1.SM_BLDG_Prop_BC_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Sign_E01_N1.SM_BLDG_Prop_BC_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Text_A01_N1.SM_BLDG_Prop_BC_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BC/Mesh/SM_BLDG_Prop_BC_Text_B01_N1.SM_BLDG_Prop_BC_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_NYA": {
+            "SignTall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A04_N1.SM_BLDG_Prop_LightSign_SignTall_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A03_N1.SM_BLDG_Prop_LightSign_SignTall_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A02_N1.SM_BLDG_Prop_LightSign_SignTall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignTall_A01_N1.SM_BLDG_Prop_LightSign_SignTall_A01_N1'"
+            ],
+            "SignShort": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A03_N1.SM_BLDG_Prop_LightSign_SignShort_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A02_N1.SM_BLDG_Prop_LightSign_SignShort_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignShort_A01_N1.SM_BLDG_Prop_LightSign_SignShort_A01_N1'"
+            ],
+            "SignFlushSmall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlushSmall_A01_N1.SM_BLDG_Prop_LightSign_SignFlushSmall_A01_N1'"
+            ],
+            "SignFlush": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A05_N1.SM_BLDG_Prop_LightSign_SignFlush_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A04_N1.SM_BLDG_Prop_LightSign_SignFlush_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A03_N1.SM_BLDG_Prop_LightSign_SignFlush_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A02_N1.SM_BLDG_Prop_LightSign_SignFlush_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_LightSign/Mesh/SM_BLDG_Prop_LightSign_SignFlush_A01_N1.SM_BLDG_Prop_LightSign_SignFlush_A01_N1'"
+            ],
+            "Awning": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_01_N1.SM_PROP_NYA_A_Awning_01_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_02_N1.SM_PROP_NYA_A_Awning_02_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_03_N1.SM_PROP_NYA_A_Awning_03_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_05_N1.SM_PROP_NYA_A_Awning_05_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_07_N1.SM_PROP_NYA_A_Awning_07_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_08_N1.SM_PROP_NYA_A_Awning_08_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Awning_10_N1.SM_PROP_NYA_A_Awning_10_N1'"
+            ],
+            "AwningLrg": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_AwningLrg_04_N1.SM_PROP_NYA_A_AwningLrg_04_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_AwningLrg_06_N1.SM_PROP_NYA_A_AwningLrg_06_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_AwningLrg_09_N1.SM_PROP_NYA_A_AwningLrg_09_N1'"
+            ],
+            "AwningCrnr": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_AwningCrnr_11_N1.SM_PROP_NYA_A_AwningCrnr_11_N1'"
+            ],
+            "Billboard": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_BillboardDoor_01_N1.SM_PROP_NYA_A_BillboardDoor_01_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Billboard_02_N1.SM_PROP_NYA_A_Billboard_02_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_BillboardLrg_03_N1.SM_PROP_NYA_A_BillboardLrg_03_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_BillboardMed_04_N1.SM_PROP_NYA_A_BillboardMed_04_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Sign_01_N1.SM_PROP_NYA_A_Sign_01_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Sign_02_N1.SM_PROP_NYA_A_Sign_02_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Sign_03_N1.SM_PROP_NYA_A_Sign_03_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Sign_04_N1.SM_PROP_NYA_A_Sign_04_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Sign_05_N1.SM_PROP_NYA_A_Sign_05_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ],
+            "Door": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_01_N1.SM_PROP_NYA_A_Door_01_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_02_N1.SM_PROP_NYA_A_Door_02_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_03_N1.SM_PROP_NYA_A_Door_03_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_04_N1.SM_PROP_NYA_A_Door_04_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_05_N1.SM_PROP_NYA_A_Door_05_N1'",
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Door_06_N1.SM_PROP_NYA_A_Door_06_N1'"
+            ],
+            "Handrail": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_Handrail_01_N1.SM_PROP_NYA_A_Handrail_01_N1'"
+            ],
+            "LockerBox": [
+                "StaticMesh'/Game/Building/NY/A/Kit_PROP_NYA/Mesh/SM_PROP_NYA_A_LockerBox_01_N1.SM_PROP_NYA_A_LockerBox_01_N1'"
+            ]
+        },
+        "Kit_Prop_NumberA": {
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'"
+            ]
+        },
+        "Kit_Prop_FirehoseConn": {
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ]
+        },
+        "Kit_Prop_Lamp": {
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_AC": {
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ]
+        },
+        "Kit_Prop_Clock": {
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ]
+        },
+        "Kit_Prop_BA": {
+            "ATM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_ATM_A01_N1.SM_BLDG_Prop_BA_ATM_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_ATM_B01_N1.SM_BLDG_Prop_BA_ATM_B01_N1'"
+            ],
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_A01_N1.SM_BLDG_Prop_BA_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_B01_N1.SM_BLDG_Prop_BA_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_C01_N1.SM_BLDG_Prop_BA_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Awning_D01_N1.SM_BLDG_Prop_BA_Awning_D01_N1'"
+            ],
+            "Marquee": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Marquee_A01_N1.SM_BLDG_Prop_BA_Marquee_A01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Banner_B01_N1.SM_BLDG_Prop_BA_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_LargeBanner_C01_N1.SM_BLDG_Prop_BA_LargeBanner_C01_N1'"
+            ],
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardL_A01_N1.SM_BLDG_Prop_BA_BoardL_A01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardR_A01_N1.SM_BLDG_Prop_BA_BoardR_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_A01_N1.SM_BLDG_Prop_BA_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Ceiling_B01_N1.SM_BLDG_Prop_BA_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_A01_N1.SM_BLDG_Prop_BA_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_B01_N1.SM_BLDG_Prop_BA_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_C01_N1.SM_BLDG_Prop_BA_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Sign_E01_N1.SM_BLDG_Prop_BA_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_A01_N1.SM_BLDG_Prop_BA_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_Text_B01_N1.SM_BLDG_Prop_BA_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        },
+        "Kit_Prop_BB": {
+            "BoardL": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardL_A01_N1.SM_BLDG_Prop_BA_BoardL_A01_N1'"
+            ],
+            "BoardR": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BA/Mesh/SM_BLDG_Prop_BA_BoardR_A01_N1.SM_BLDG_Prop_BA_BoardR_A01_N1'"
+            ],
+            "ATM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_ATM_A01_N1.SM_BLDG_Prop_BB_ATM_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_ATM_B01_N1.SM_BLDG_Prop_BB_ATM_B01_N1'"
+            ],
+            "Awning": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Awning_A01_N1.SM_BLDG_Prop_BB_Awning_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Awning_B01_N1.SM_BLDG_Prop_BB_Awning_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Awning_C01_N1.SM_BLDG_Prop_BB_Awning_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Awning_D01_N1.SM_BLDG_Prop_BB_Awning_D01_N1'"
+            ],
+            "Banner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Banner_A01_N1.SM_BLDG_Prop_BB_Banner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Banner_B01_N1.SM_BLDG_Prop_BB_Banner_B01_N1'"
+            ],
+            "LargeBanner": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_LargeBanner_C01_N1.SM_BLDG_Prop_BB_LargeBanner_C01_N1'"
+            ],
+            "BoardM": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_BoardM_A01_N1.SM_BLDG_Prop_BB_BoardM_A01_N1'"
+            ],
+            "Ceiling": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Ceiling_A01_N1.SM_BLDG_Prop_BB_Ceiling_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Ceiling_B01_N1.SM_BLDG_Prop_BB_Ceiling_B01_N1'"
+            ],
+            "Sign": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Sign_A01_N1.SM_BLDG_Prop_BB_Sign_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Sign_B01_N1.SM_BLDG_Prop_BB_Sign_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Sign_C01_N1.SM_BLDG_Prop_BB_Sign_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Sign_D01_N1.SM_BLDG_Prop_BB_Sign_D01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Sign_E01_N1.SM_BLDG_Prop_BB_Sign_E01_N1'"
+            ],
+            "Text": [
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Text_A01_N1.SM_BLDG_Prop_BB_Text_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/B/Kit_Prop_BB/Mesh/SM_BLDG_Prop_BB_Text_B01_N1.SM_BLDG_Prop_BB_Text_B01_N1'"
+            ],
+            "Outlet": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_FirehoseConn/Mesh/SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1.SM_BLDG_Prop_FirehoseConn_Outlet_C01_N1'"
+            ],
+            "Wall": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A02_N1.SM_BLDG_Prop_Lamp_Wall_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_B01_N1.SM_BLDG_Prop_Lamp_Wall_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_C01_N1.SM_BLDG_Prop_Lamp_Wall_C01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Lamp/Mesh/SM_BLDG_Prop_Lamp_Wall_A01_N1.SM_BLDG_Prop_Lamp_Wall_A01_N1'"
+            ],
+            "House": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A01_N1.SM_BLDG_Prop_Number_House_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A02_N1.SM_BLDG_Prop_Number_House_A02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A03_N1.SM_BLDG_Prop_Number_House_A03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A04_N1.SM_BLDG_Prop_Number_House_A04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A05_N1.SM_BLDG_Prop_Number_House_A05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A06_N1.SM_BLDG_Prop_Number_House_A06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A07_N1.SM_BLDG_Prop_Number_House_A07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A08_N1.SM_BLDG_Prop_Number_House_A08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A09_N1.SM_BLDG_Prop_Number_House_A09_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_A00_N1.SM_BLDG_Prop_Number_House_A00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B00_N1.SM_BLDG_Prop_Number_House_B00_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B01_N1.SM_BLDG_Prop_Number_House_B01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B02_N1.SM_BLDG_Prop_Number_House_B02_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B03_N1.SM_BLDG_Prop_Number_House_B03_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B04_N1.SM_BLDG_Prop_Number_House_B04_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B05_N1.SM_BLDG_Prop_Number_House_B05_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B06_N1.SM_BLDG_Prop_Number_House_B06_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B07_N1.SM_BLDG_Prop_Number_House_B07_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B08_N1.SM_BLDG_Prop_Number_House_B08_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_House_B09_N1.SM_BLDG_Prop_Number_House_B09_N1'"
+            ],
+            "Hash": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_A01_N1.SM_BLDG_Prop_Number_Hash_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Number/Mesh/SM_BLDG_Prop_Number_Hash_B01_N1.SM_BLDG_Prop_Number_Hash_B01_N1'"
+            ],
+            "Window": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A01_N1.SM_BLDG_Prop_AC_Window_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_AC/Mesh/SM_BLDG_Prop_AC_Window_A02_N1.SM_BLDG_Prop_AC_Window_A02_N1'"
+            ],
+            "Corner": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A01_N1.SM_BLDG_Prop_Clock_Corner_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Corner_A02_N1.SM_BLDG_Prop_Clock_Corner_A02_N1'"
+            ],
+            "Standing": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Standing_A01_N1.SM_BLDG_Prop_Clock_Standing_A01_N1'"
+            ],
+            "Walll": [
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A01_N1.SM_BLDG_Prop_Clock_Walll_A01_N1'",
+                "StaticMesh'/Game/Prop/BLDG/Kit_Prop_Clock/Mesh/SM_BLDG_Prop_Clock_Walll_A02_N1.SM_BLDG_Prop_Clock_Walll_A02_N1'",
+                "StaticMesh'/Game/Building/CH/C/Kit_Prop_CHC/Mesh/SM_BLDG_Prop_Clock_Walll_A03_N1.SM_BLDG_Prop_Clock_Walll_A03_N1'"
+            ],
+            "CHA": [
+                "StaticMesh'/Game/Building/CH/A/Kit_Prop_CHA/Mesh/SM_BLDG_Prop_Lamp_CHA_A01_N1.SM_BLDG_Prop_Lamp_CHA_A01_N1'"
+            ],
+            "SFB": [
+                "StaticMesh'/Game/Building/SF/B/Kit_Prop_SFB/Mesh/SM_BLDG_Prop_Lamp_SFB_A01.SM_BLDG_Prop_Lamp_SFB_A01'"
+            ]
+        }
+    }
+}
